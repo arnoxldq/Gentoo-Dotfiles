@@ -103,7 +103,7 @@ stow hypr kitty waybar wofi gtk-3.0
 
 ## Author
 
-arnold
+arnoxldq
 
 GitHub:
 https://github.com/arnoxldq
